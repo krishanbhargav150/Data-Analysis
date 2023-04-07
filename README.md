@@ -8,4 +8,5 @@ Using MySQL software analyzed the data and get these outputs:
 4. total no. of males and females at different districts, each states and at the end in India.
 5. calculated the pervious census population.
 
+//This Project boost my Resume and give me a next level confidence.
 
